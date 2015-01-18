@@ -1,4 +1,4 @@
-require_relative '../test_helper'
+require File.expand_path('../../test_helper', __FILE__)
 
 class RedminePatchTest < ActiveSupport::TestCase
   def test_ITCPDF_formatted_text
