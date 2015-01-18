@@ -22,8 +22,8 @@ Exported PDF:
 
 ## Supported versions
 
-  * Redmine 2.6, trunk
-  * Ruby 1.9.3, 2.2.0
+  * Redmine 2.6, trunk (Test with local only)
+  * Ruby 1.9.3, 2.1
 
 ## Install
 
