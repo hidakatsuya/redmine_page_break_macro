@@ -2,11 +2,23 @@
 
 [![Build Status](http://img.shields.io/travis/hidakatsuya/redmine_page_break_macro.svg?style=flat)](https://travis-ci.org/hidakatsuya/redmine_page_break_macro)
 
-Redmine plugin for adding page break macro that specify a page break position.
+Redmine plugin for adding page break macro that specify a page break position in wiki page.
 
-## Feature
+Usage for `{{page_break}} macro`:
 
-TODO
+![How to use page break macro in wiki page](http://art37.photozou.jp/pub/683/3135683/photo/217402642.v1421552108.png)
+
+Print in browser:
+
+![Print in browser](http://art21.photozou.jp/pub/683/3135683/photo/217404253.v1421554083.png)
+
+Export wiki page as PDF:
+
+![Export wiki page as PDF ](http://art37.photozou.jp/pub/683/3135683/photo/217404643.v1421554762.png)
+
+Exported PDF:
+
+![Exported PDF](http://art29.photozou.jp/pub/683/3135683/photo/217404975.v1421555250.png)
 
 ## Supported versions
 
