@@ -6,19 +6,19 @@ Redmine plugin for adding page break macro that specify a page break position in
 
 Usage for `{{page_break}} macro`:
 
-![How to use page break macro in wiki page](http://art37.photozou.jp/pub/683/3135683/photo/217402642.v1421552108.png)
+![How to use page break macro in wiki page](http://art37.photozou.jp/pub/683/3135683/photo/217402642_org.v1421552108.png)
 
 Print in browser:
 
-![Print in browser](http://art21.photozou.jp/pub/683/3135683/photo/217404253.v1421554083.png)
+![Print in browser](http://art21.photozou.jp/pub/683/3135683/photo/217404253_org.v1421554083.png)
 
 Export wiki page as PDF:
 
-![Export wiki page as PDF ](http://art37.photozou.jp/pub/683/3135683/photo/217404643.v1421554762.png)
+![Export wiki page as PDF ](http://art37.photozou.jp/pub/683/3135683/photo/217404643_org.v1421554762.png)
 
 Exported PDF:
 
-![Exported PDF](http://art29.photozou.jp/pub/683/3135683/photo/217404975.v1421555250.png)
+![Exported PDF](http://art29.photozou.jp/pub/683/3135683/photo/217404975_org.v1421555250.png)
 
 ## Supported versions
 
