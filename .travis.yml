@@ -18,5 +18,8 @@ before_install:
   - cp config/database.travis.yml $REDMINE_PATH/config/database.yml
   - cd $REDMINE_PATH
 
+before_script:
+  - bundle exec rake db:migrate
+
 script:
   - bundle exec rake redmine:plugins:test NAME=$PLUGIN_NAME
