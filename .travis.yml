@@ -6,7 +6,7 @@ rvm:
 
 env:
   - REDMINE_REPOS=branches/2.6-stable
-  - REDMINE_REPOS=branches/trunk
+  - REDMINE_REPOS=trunk
 
 before_install:
   - export PLUGIN_NAME=redmine_page_break_macro
